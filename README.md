@@ -1,5 +1,7 @@
 ## envFuscator  
   
+![envFuscator](https://i.redd.it/iib2ote3l4d11.png)
+  
 #### Reconstructs command text by referencing env value character indexes. Can be run live and pull values directly from a host's env variables or alternatively by importing a csv file export of env variables from a target system.  
   
 ##### Parameter cmd  
