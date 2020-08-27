@@ -8,7 +8,7 @@
 Indicates the command being obfuscated.  
   
 ##### Parameter csvFile  
-Optionally specifies a csv file to read env variables from.  
+Optionally specifies a csv file to read env variables from, generated via "ls env: | Export-Csv -Path outputPath"  
   
 ##### Example  
 ```powershell
