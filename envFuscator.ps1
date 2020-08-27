@@ -31,7 +31,7 @@ $cmda = @()
 
 if ($csvFile)
 {
-    $vars = import-csv $importCSV
+    $vars = import-csv $csvFile
 }
 else
 {
